@@ -22,7 +22,7 @@ docker-compose up -d
 ```
 
 И откройте в браузере `http://sre.local:86`. Вы должны увидеть что-то вроде этого:
-![App View](http://ds.retailcrm.tech/s/1626362383.png)
+![App View](http://ds.retailcrm.tech/s/tAlZRcfzUVKh.png)
 
 ## Задание
 
